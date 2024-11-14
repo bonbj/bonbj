@@ -2,7 +2,7 @@
 
 ## - 🙋‍♂️ Who am I
 
->I'm full stack development java and JavaScript, currently I work with mobile development in ionic framework, My job is are on Accenture, In my free time I make code challenges.
+>I'm Front end development JavaScript, currently I work with mobile development in ionic framework, My job is are on Accenture, In my free time I make code challenges.
 
 <br>
 
