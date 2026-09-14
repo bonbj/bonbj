@@ -55,9 +55,7 @@ Deepening local Gen AI: running open models with Ollama and LM Studio, building 
 
 ## GitHub
 
-<p>
-  <a href="https://github.com/bonbj">
-    <img height="150" src="https://github-readme-stats.vercel.app/api?username=bonbj&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub stats">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bonbj&layout=compact&langs_count=8&theme=transparent&hide_border=true" alt="Top languages">
-  </a>
-</p>
+<div>
+  <img height="150em" src="https://github-stats-extended.vercel.app/api?username=bonbj&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub stats" />
+  <img height="150em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=bonbj&layout=compact&langs_count=8&theme=graywhite&hide_border=true" alt="Top languages" />
+</div>
